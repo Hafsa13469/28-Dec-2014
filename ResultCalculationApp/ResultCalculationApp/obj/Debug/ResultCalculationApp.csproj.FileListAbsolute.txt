@@ -1,0 +1,9 @@
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe.config
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.pdb
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.csprojResolveAssemblyReference.cache
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.Form1.resources
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.Properties.Resources.resources
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.csproj.GenerateResource.Cache
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.exe
+D:\ASP CODE\28-12-2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.pdb
